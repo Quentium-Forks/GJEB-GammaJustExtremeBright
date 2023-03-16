@@ -7,7 +7,7 @@
 	"package": "info.u_team.gjeb.mixin",
 	"mixins": [],
 	"client": [
-		"OptionsMixin"
+		"ProgressOptionMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
